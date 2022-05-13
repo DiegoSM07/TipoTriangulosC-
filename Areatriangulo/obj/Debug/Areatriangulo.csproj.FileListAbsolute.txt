@@ -1,0 +1,8 @@
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\bin\Debug\Areatriangulo.exe.config
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\bin\Debug\Areatriangulo.exe
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\bin\Debug\Areatriangulo.pdb
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\obj\Debug\Areatriangulo.csproj.AssemblyReference.cache
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\obj\Debug\Areatriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\obj\Debug\Areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\obj\Debug\Areatriangulo.exe
+C:\Users\German\source\repos\Areatriangulo\Areatriangulo\obj\Debug\Areatriangulo.pdb
